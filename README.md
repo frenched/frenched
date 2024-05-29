@@ -1,5 +1,12 @@
 ## Hi there 👋
+- I'm currently a 2nd year computer engineering student at Colegio de Montalban in Rodriguez, Rizal.
 
+Languages:
+- VB.Net
+- Java
+- C++
+- HTML
+- CSS
 <!--
 **frenched/frenched** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
